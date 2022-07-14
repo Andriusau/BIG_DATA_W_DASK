@@ -25,3 +25,5 @@ BSAD 699 Data Science Article
 #NEXT- We will join on Pandas function .MERGE to join different data frames
 
 <img width="1039" alt="6" src="https://user-images.githubusercontent.com/29932870/179017394-7b4fc28b-fac6-44ac-8486-0b129124b35a.png">
+
+#THERE YOU HAVE IT!! HOW TO CLEAN CHUNKS OF A FILE BACK TO THE WHOLE, AND JOIN ON DIFFERENT FILES
